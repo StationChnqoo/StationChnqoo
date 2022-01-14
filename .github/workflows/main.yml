@@ -17,3 +17,9 @@ jobs:
       - uses: ChenqiaoStation/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          LOCALE: TRUE
+          COMMIT_BY_ME: TRUE
+          COMMIT_MESSAGE: TRUE
+          SHOW_UPDATED_DATE: TRUE
+          SHOW_LINES_OF_CODE: TRUE
+          SHOW_PROFILE_VIEWS: TRUE
