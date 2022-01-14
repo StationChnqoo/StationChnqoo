@@ -17,6 +17,8 @@ jobs:
       - uses: ChenqiaoStation/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SHOW_TITLE: true
+          HEAD_FLAG: true
           LOCALE: "zh"
           SHOW_COMMIT: "True"
           SHOW_DAYS_OF_WEEK: "True"
