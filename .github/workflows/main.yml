@@ -19,8 +19,8 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
           HEAD_FLAG: true
-          LOCALE: "zh"
-          SHOW_COMMIT: "True"
-          SHOW_DAYS_OF_WEEK: "True"
-          SHOW_EDITORS: "True"
-          SHOW_OS: "True"
+          LOCALE: zh
+          SHOW_COMMIT: true
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_EDITORS: true
+          SHOW_OS: true
