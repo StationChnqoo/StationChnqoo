@@ -10,15 +10,14 @@
 
 - 前端：
     - 据不完全统计： `React Native`、`Next JS`、`Ant design`、`原生 Android`。
-- 后端q：
+- 后端：
     - 据不完全统计：`Spring boot`、`Mybatis`、`SSH`、老掉牙的 `JSP Servlet`。
 - 数据库:
     - 拒不完全统计：`MySQL`、`Redis`、`Mongo DB`。
 
 目前专注于 `React Native` 开发。前段时间刚更新的博客架构，用的 `NextJS + MongoDB + Redis + Springboot  + Mybatis`。预计春节前能上线。
 ### 业务懂的比较多
-从毕业到现在，各种小公司的坑都踩过，什么业务也懂：
-- 据不完全统计：跨境电商类、在线教育类、政府项目外包类、驻场人力外包类、嵌入式开发类、电话销售类。
+从毕业到现在，各种小公司的坑都踩过，什么业务也懂。
 
 🐞 最近一周代码工作量统计:
 <!--START_SECTION:waka-->
