@@ -13,7 +13,7 @@
 - 后端：
     - 据不完全统计：`Spring boot`、`Mybatis`、`SSH`、老掉牙的 `JSP Servlet`。
 - 数据库:
-    - 拒不完全统计：`MySQL`、`Redis`、`Mongo DB`。
+    - 据不完全统计：`MySQL`、`Redis`、`Mongo DB`。
 
 目前专注于 `React Native` 开发。前段时间刚更新的博客架构，用的 `NextJS + MongoDB + Redis + Springboot  + Mybatis`。预计春节前能上线。
 ### 业务懂的比较多
