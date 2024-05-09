@@ -13,7 +13,7 @@ jobs:
     name: Update this repo's README 
     runs-on: ubuntu-latest
     steps:
-      - uses: StationChnqoo/waka-readme@master
+      - uses: StationChnqoo/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
