@@ -25,7 +25,7 @@
 从毕业到现在，各种小公司的坑都踩过，什么业务也懂。
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C520%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C507%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -33,7 +33,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,145 Contributions in the Year 2024
+> 🏆 2,147 Contributions in the Year 2024
  > 
 > 📦 301.6 kB Used in GitHub's Storage 
  > 
@@ -55,8 +55,8 @@
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       100 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.05% 
-Tuesday      65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.38% 
+Monday       101 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.24% 
+Tuesday      64 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.19% 
 Wednesday    79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.05% 
 Thursday     73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.9% 
 Friday       59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.24% 
