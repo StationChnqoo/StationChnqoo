@@ -25,7 +25,7 @@
 从毕业到现在，各种小公司的坑都踩过，什么业务也懂。
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C698%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C701%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -33,9 +33,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,292 Contributions in the Year 2024
+> 🏆 2,290 Contributions in the Year 2024
  > 
-> 📦 302.9 kB Used in GitHub's Storage 
+> 📦 306.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -46,8 +46,8 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    144 commits    ██████░░░░░░░░░░░░░░░░░░░   25.85% 
-🌆 Daytime    153 commits    ██████░░░░░░░░░░░░░░░░░░░   27.47% 
+🌞 Morning    145 commits    ██████░░░░░░░░░░░░░░░░░░░   26.03% 
+🌆 Daytime    152 commits    ██████░░░░░░░░░░░░░░░░░░░   27.29% 
 🌃 Evening    169 commits    ███████░░░░░░░░░░░░░░░░░░   30.34% 
 🌙 Night      91 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.34%
 
