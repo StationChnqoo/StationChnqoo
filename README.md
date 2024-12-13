@@ -25,7 +25,7 @@
 从毕业到现在，各种小公司的坑都踩过，什么业务也懂。
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C945%20hrs%2018%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C946%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -33,7 +33,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,573 Contributions in the Year 2024
+> 🏆 2,574 Contributions in the Year 2024
  > 
 > 📦 300.5 kB Used in GitHub's Storage 
  > 
@@ -48,8 +48,8 @@
 ```text
 🌞 Morning    169 commits    ██████░░░░░░░░░░░░░░░░░░░   25.45% 
 🌆 Daytime    189 commits    ███████░░░░░░░░░░░░░░░░░░   28.46% 
-🌃 Evening    199 commits    ███████░░░░░░░░░░░░░░░░░░   29.97% 
-🌙 Night      107 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.11%
+🌃 Evening    198 commits    ███████░░░░░░░░░░░░░░░░░░   29.82% 
+🌙 Night      108 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.27%
 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -100,7 +100,7 @@ C++                      4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2024
+ Last Updated on 13/12/2024
 <!--END_SECTION:waka-->
 
 <!---
