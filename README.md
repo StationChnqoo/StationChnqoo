@@ -25,7 +25,7 @@
 从毕业到现在，各种小公司的坑都踩过，什么业务也懂。
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C383%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C386%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -58,8 +58,8 @@
 Monday       126 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.71% 
 Tuesday      114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.12% 
 Wednesday    107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.19% 
-Thursday     114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.12% 
-Friday       76 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.08% 
+Thursday     115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.25% 
+Friday       75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.95% 
 Saturday     74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.81% 
 Sunday       143 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.97%
 
