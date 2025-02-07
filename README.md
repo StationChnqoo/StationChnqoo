@@ -25,7 +25,7 @@
 从毕业到现在，各种小公司的坑都踩过，什么业务也懂。
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C485%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C485%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -33,9 +33,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 365 Contributions in the Year 2025
+> 🏆 373 Contributions in the Year 2025
  > 
-> 📦 278.3 kB Used in GitHub's Storage 
+> 📦 278.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
