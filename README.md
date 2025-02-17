@@ -25,7 +25,7 @@
 从毕业到现在，各种小公司的坑都踩过，什么业务也懂。
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-7%2C617%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%2C620%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -33,7 +33,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 502 Contributions in the Year 2025
+> 🏆 508 Contributions in the Year 2025
  > 
 > 📦 198.4 kB Used in GitHub's Storage 
  > 
@@ -47,9 +47,9 @@
 
 ```text
 🌞 Morning    186 commits    ██████░░░░░░░░░░░░░░░░░░░   26.31% 
-🌆 Daytime    209 commits    ███████░░░░░░░░░░░░░░░░░░   29.56% 
+🌆 Daytime    208 commits    ███████░░░░░░░░░░░░░░░░░░   29.42% 
 🌃 Evening    208 commits    ███████░░░░░░░░░░░░░░░░░░   29.42% 
-🌙 Night      104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.71%
+🌙 Night      105 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.85%
 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -100,7 +100,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2025
+ Last Updated on 17/02/2025
 <!--END_SECTION:waka-->
 
 <!---
