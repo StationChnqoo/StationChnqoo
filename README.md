@@ -11,7 +11,7 @@
 - 2025 至今，南京 😄
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C596%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C580%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
