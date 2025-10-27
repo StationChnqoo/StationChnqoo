@@ -11,7 +11,7 @@
 - 2025 至今，南京 😄
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C583%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C585%20hrs%2011%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue)
 
@@ -19,7 +19,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,142 Contributions in the Year 2025
+> 🏆 1,143 Contributions in the Year 2025
  > 
 > 📦 227.8 kB Used in GitHub's Storage 
  > 
@@ -32,10 +32,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    175 commits    ███████░░░░░░░░░░░░░░░░░░   28.78% 
+🌞 Morning    176 commits    ███████░░░░░░░░░░░░░░░░░░   28.95% 
 🌆 Daytime    159 commits    ██████░░░░░░░░░░░░░░░░░░░   26.15% 
 🌃 Evening    198 commits    ████████░░░░░░░░░░░░░░░░░   32.57% 
-🌙 Night      76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5%
+🌙 Night      75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.34%
 
 ```
 📅 **I'm Most Productive on Sunday** 
