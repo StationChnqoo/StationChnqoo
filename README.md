@@ -11,7 +11,7 @@
 - 2025 至今，南京 😄
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C629%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C631%20hrs%2046%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-22-blue)
 
@@ -19,7 +19,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,173 Contributions in the Year 2025
+> 🏆 1,174 Contributions in the Year 2025
  > 
 > 📦 229.3 kB Used in GitHub's Storage 
  > 
