@@ -11,7 +11,7 @@
 - 2025 至今，南京 😄
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C652%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C652%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-27-blue)
 
@@ -19,7 +19,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,193 Contributions in the Year 2025
+> 🏆 1,194 Contributions in the Year 2025
  > 
 > 📦 229.7 kB Used in GitHub's Storage 
  > 
@@ -33,9 +33,9 @@
 
 ```text
 🌞 Morning    179 commits    ███████░░░░░░░░░░░░░░░░░░   28.92% 
-🌆 Daytime    160 commits    ██████░░░░░░░░░░░░░░░░░░░   25.85% 
+🌆 Daytime    159 commits    ██████░░░░░░░░░░░░░░░░░░░   25.69% 
 🌃 Evening    205 commits    ████████░░░░░░░░░░░░░░░░░   33.12% 
-🌙 Night      75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.12%
+🌙 Night      76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.28%
 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -88,7 +88,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2025
+ Last Updated on 01/11/2025
 <!--END_SECTION:waka-->
 
 <!---
