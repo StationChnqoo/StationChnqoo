@@ -1,0 +1,30 @@
+name: Daka
+
+name: 钉钉打卡
+
+on:
+  schedule:
+    # 北京时间早上 7:00 ~ 8:30，每 5 分钟
+    - cron: '*/5 23 * * *'       # UTC 前一天 23:00~23:55
+    - cron: '0-30/5 0 * * *'     # UTC 第二天 00:00~00:30
+    # 北京时间晚上 20:00 ~ 21:30，每 5 分钟
+    - cron: '*/5 12 * * *'       # UTC 12:00~12:55
+    - cron: '0-30/5 13 * * *'    # UTC 13:00~13:30
+
+jobs:
+  dingding-reminder:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout 仓库
+        uses: actions/checkout@v3
+
+      - name: 安装 Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: 安装依赖
+        run: npm install axios dayjs
+
+      - name: 调用钉钉机器人
+        run: node scripts/daka.js
