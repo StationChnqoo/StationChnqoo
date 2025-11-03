@@ -11,7 +11,7 @@ on:
     - cron: '0-30/5 13 * * *'    # UTC 13:00~13:30
 
 jobs:
-  dingding-reminder:
+  dingding-daka:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout 仓库
