@@ -1,6 +1,7 @@
 name: 钉钉打卡
 
 on:
+  workflow_dispatch:
   schedule:
     # 北京时间早上 7:00 ~ 8:30，每 5 分钟
     - cron: '*/5 23 * * *'       # UTC 前一天 23:00~23:55
