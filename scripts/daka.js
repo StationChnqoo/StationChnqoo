@@ -1,5 +1,5 @@
-import axios from "axios";
-import dayjs from "dayjs";
+const axios = require("axios");
+const dayjs = require("dayjs");
 
 const webhook =
   "https://oapi.dingtalk.com/robot/send?access_token=704b8017c745fee233be009d93fce196f05e053942c7ea75da012d51c78c48e9";
