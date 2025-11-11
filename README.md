@@ -11,15 +11,15 @@
 - 2025 至今，南京 😄
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C810%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C813%20hrs%2039%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-87-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-86-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-374%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,313 Contributions in the Year 2025
+> 🏆 1,314 Contributions in the Year 2025
  > 
 > 📦 231.2 kB Used in GitHub's Storage 
  > 
@@ -42,9 +42,9 @@
 
 ```text
 Monday       101 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
-Tuesday      75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.02% 
+Tuesday      76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
 Wednesday    71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.38% 
-Thursday     83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.3% 
+Thursday     82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.14% 
 Friday       71 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.38% 
 Saturday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.9% 
 Sunday       130 commits    █████░░░░░░░░░░░░░░░░░░░░   20.83%
@@ -87,7 +87,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 10/11/2025
+ Last Updated on 11/11/2025
 <!--END_SECTION:waka-->
 
 <!---
