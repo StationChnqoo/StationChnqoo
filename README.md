@@ -11,29 +11,29 @@
 - 2025 至今，南京 😄
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C839%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C841%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-93-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-98-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-375%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,335 Contributions in the Year 2025
+> 🏆 1,337 Contributions in the Year 2025
  > 
 > 📦 231.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 30 Public Repositories 
+> 📜 29 Public Repositories 
  > 
-> 🔑 18 Private Repositories  
+> 🔑 19 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    185 commits    ███████░░░░░░░░░░░░░░░░░░   29.65% 
-🌆 Daytime    154 commits    ██████░░░░░░░░░░░░░░░░░░░   24.68% 
+🌞 Morning    186 commits    ███████░░░░░░░░░░░░░░░░░░   29.81% 
+🌆 Daytime    153 commits    ██████░░░░░░░░░░░░░░░░░░░   24.52% 
 🌃 Evening    212 commits    ████████░░░░░░░░░░░░░░░░░   33.97% 
 🌙 Night      73 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.7%
 
@@ -44,9 +44,9 @@
 Monday       101 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
 Tuesday      82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.14% 
 Wednesday    82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.14% 
-Thursday     74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.86% 
+Thursday     75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.02% 
 Friday       62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.94% 
-Saturday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.9% 
+Saturday     92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.74% 
 Sunday       130 commits    █████░░░░░░░░░░░░░░░░░░░░   20.83%
 
 ```
@@ -86,7 +86,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2025
+ Last Updated on 13/11/2025
 <!--END_SECTION:waka-->
 
 <!---
