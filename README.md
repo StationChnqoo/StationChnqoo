@@ -11,9 +11,9 @@
 - 2025 至今，南京 😄
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%2C848%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-9%2C851%20hrs%2054%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-98-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-97-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-375%20Thousand%20lines%20of%20code-blue)
 
@@ -44,9 +44,9 @@
 Monday       101 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
 Tuesday      82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.14% 
 Wednesday    82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.14% 
-Thursday     78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Thursday     79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.66% 
 Friday       62 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.94% 
-Saturday     89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.26% 
+Saturday     88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.1% 
 Sunday       130 commits    █████░░░░░░░░░░░░░░░░░░░░   20.83%
 
 ```
