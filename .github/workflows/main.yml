@@ -4,6 +4,8 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - "README.md" # 忽略对 README.md 的更改触发
   workflow_dispatch:
   schedule:
     - cron: "0 16 * * *" # 本地每日 0 点
@@ -18,9 +20,8 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_BY_ME: "True"
-          UPDATE_ON_CHANGE: "True" # ✨ 只在数据变化时更新
-          SHOW_UPDATED_DATE: "False"
-          SHOW_PROJECTS: "False"
+          SHOW_UPDATED_DATE: "True"
+          SHOW_PROJECTS: "True"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "True"
           SHOW_COMMIT: "True"
