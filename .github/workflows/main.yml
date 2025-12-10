@@ -21,7 +21,7 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           COMMIT_BY_ME: "True"
           SHOW_UPDATED_DATE: "True"
-          SHOW_PROJECTS: "True"
+          SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "True"
           SHOW_COMMIT: "True"
