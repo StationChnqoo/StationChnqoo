@@ -10,83 +10,82 @@
 - 2025 至今，南京 😄
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C608%20hrs%2041%20mins-blue)
 
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C594%20hrs%2043%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-219%20Thousand%20lines%20of%20code-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-228%20Thousand%20lines%20of%20code-blue)
+**🐱 My GitHub Data** 
 
-**🐱 My GitHub Data**
-
-> 🏆 320 Contributions in the Year 2026
->
-> 📦 235.1 kB Used in GitHub's Storage
->
+> 🏆 337 Contributions in the Year 2026
+ > 
+> 📦 235.3 kB Used in GitHub's Storage 
+ > 
 > 💼 Opted to Hire
->
-> 📜 21 Public Repositories
->
-> 🔑 17 Private Repositories
->
-> **I'm a Night 🦉**
+ > 
+> 📜 23 Public Repositories 
+ > 
+> 🔑 18 Private Repositories  
+ > 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    160 commits    ██████░░░░░░░░░░░░░░░░░░░   24.92%
-🌆 Daytime    146 commits    █████░░░░░░░░░░░░░░░░░░░░   22.74%
-🌃 Evening    205 commits    ████████░░░░░░░░░░░░░░░░░   31.93%
-🌙 Night      131 commits    █████░░░░░░░░░░░░░░░░░░░░   20.4%
+🌞 Morning    168 commits    ██████░░░░░░░░░░░░░░░░░░░   24.21% 
+🌆 Daytime    160 commits    █████░░░░░░░░░░░░░░░░░░░░   23.05% 
+🌃 Evening    227 commits    ████████░░░░░░░░░░░░░░░░░   32.71% 
+🌙 Night      139 commits    █████░░░░░░░░░░░░░░░░░░░░   20.03%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.27% 
+Tuesday      100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.41% 
+Wednesday    96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.83% 
+Thursday     102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.7% 
+Friday       84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.1% 
+Saturday     88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.68% 
+Sunday       125 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.01%
 
 ```
 
-📅 **I'm Most Productive on Sunday**
 
-```text
-Monday       86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.4%
-Tuesday      96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.95%
-Wednesday    92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.33%
-Thursday     88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71%
-Friday       85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.24%
-Saturday     79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.31%
-Sunday       116 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.07%
-
-```
-
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Shanghai
 
-💬 Programming Languages:
-TypeScript               72 hrs 30 mins      ███████████████████░░░░░░   77.06%
-Other                    6 hrs 43 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.15%
-Vue                      4 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.73%
-Kotlin                   3 hrs 56 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.19%
-SQL                      1 hr 48 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.92%
+💬 Programming Languages: 
+TypeScript               72 hrs 6 mins       ███████████████████░░░░░░   77.18% 
+Other                    7 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.66% 
+Vue                      4 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.77% 
+Kotlin                   4 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.32% 
+SQL                      1 hr 35 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.71%
 
-🔥 Editors:
-VS Code                  92 hrs 56 mins      ████████████████████████░   98.76%
-IntelliJ IDEA            1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.18%
-Android Studio           3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
+🔥 Editors: 
+VS Code                  92 hrs 14 mins      ████████████████████████░   98.73% 
+IntelliJ IDEA            1 hr 11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.27%
 
-💻 Operating System:
-Mac                      94 hrs 5 mins       █████████████████████████   100.0%
+💻 Operating System: 
+Mac                      93 hrs 26 mins      █████████████████████████   100.0%
 
 ```
 
-**I Mostly Code in TypeScript**
+**I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               13 repos            ███████████░░░░░░░░░░░░░░   44.83%
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79%
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79%
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9%
+TypeScript               13 repos            ███████████░░░░░░░░░░░░░░   44.83% 
+JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9% 
 Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9%
 
 ```
 
-Last Updated on 13/05/2026
 
+
+ Last Updated on 14/05/2026
 <!--END_SECTION:waka-->
 
 <!---
