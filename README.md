@@ -10,7 +10,7 @@
 - 2025 至今，南京 😄
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C734%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C737%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -18,7 +18,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 397 Contributions in the Year 2026
+> 🏆 401 Contributions in the Year 2026
  > 
 > 📦 235.5 kB Used in GitHub's Storage 
  > 
@@ -31,22 +31,22 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    161 commits    ██████░░░░░░░░░░░░░░░░░░░   24.1% 
-🌆 Daytime    157 commits    ██████░░░░░░░░░░░░░░░░░░░   23.5% 
-🌃 Evening    213 commits    ████████░░░░░░░░░░░░░░░░░   31.89% 
-🌙 Night      137 commits    █████░░░░░░░░░░░░░░░░░░░░   20.51%
+🌞 Morning    162 commits    ██████░░░░░░░░░░░░░░░░░░░   24.22% 
+🌆 Daytime    158 commits    ██████░░░░░░░░░░░░░░░░░░░   23.62% 
+🌃 Evening    212 commits    ████████░░░░░░░░░░░░░░░░░   31.69% 
+🌙 Night      137 commits    █████░░░░░░░░░░░░░░░░░░░░   20.48%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.77% 
-Tuesday      93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
-Wednesday    100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.97% 
-Thursday     99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.82% 
-Friday       78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.68% 
-Saturday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.92% 
-Sunday       113 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.92%
+Monday       95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.2% 
+Tuesday      92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.75% 
+Wednesday    100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.95% 
+Thursday     99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.8% 
+Friday       78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.66% 
+Saturday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.9% 
+Sunday       112 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.74%
 
 ```
 
@@ -57,18 +57,18 @@ Sunday       113 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               73 hrs 25 mins      █████████████████████░░░░   85.69% 
-JavaScript               2 hrs 29 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   2.91% 
-JSON                     2 hrs 20 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73% 
-Kotlin                   2 hrs 1 min         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.37% 
-Vue                      1 hr 42 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.99%
+TypeScript               67 hrs 50 mins      █████████████████████░░░░   84.74% 
+JavaScript               2 hrs 29 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   3.12% 
+JSON                     2 hrs 18 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   2.88% 
+Kotlin                   2 hrs 1 min         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.54% 
+Vue                      1 hr 42 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.13%
 
 🔥 Editors: 
-VS Code                  84 hrs 57 mins      ████████████████████████░   99.15% 
-Android Studio           43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.85%
+VS Code                  79 hrs 20 mins      ████████████████████████░   99.09% 
+Android Studio           43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.91%
 
 💻 Operating System: 
-Mac                      85 hrs 41 mins      █████████████████████████   100.0%
+Mac                      80 hrs 4 mins       █████████████████████████   100.0%
 
 ```
 
@@ -85,7 +85,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/05/2026
+ Last Updated on 25/05/2026
 <!--END_SECTION:waka-->
 
 <!---
