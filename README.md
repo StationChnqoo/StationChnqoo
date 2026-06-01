@@ -10,7 +10,7 @@
 - 2025 至今，南京 😄
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%2C810%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-11%2C810%20hrs%2045%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -18,7 +18,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 429 Contributions in the Year 2026
+> 🏆 430 Contributions in the Year 2026
  > 
 > 📦 235.5 kB Used in GitHub's Storage 
  > 
@@ -57,18 +57,18 @@ Sunday       113 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               55 hrs 39 mins      ███████████████████░░░░░░   77.12% 
-Markdown                 5 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.12% 
-Vue                      4 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.84% 
-Kotlin                   1 hr 15 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75% 
-Java                     1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.52%
+TypeScript               52 hrs 23 mins      ███████████████████░░░░░░   76.03% 
+Markdown                 5 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
+Vue                      4 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.11% 
+Kotlin                   1 hr 15 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.83% 
+Java                     1 hr 5 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59%
 
 🔥 Editors: 
-VS Code                  71 hrs 57 mins      █████████████████████████   99.7% 
-Trae                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.3%
+VS Code                  68 hrs 40 mins      █████████████████████████   99.69% 
+Trae                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.31%
 
 💻 Operating System: 
-Mac                      72 hrs 10 mins      █████████████████████████   100.0%
+Mac                      68 hrs 53 mins      █████████████████████████   100.0%
 
 ```
 
@@ -85,7 +85,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2026
+ Last Updated on 01/06/2026
 <!--END_SECTION:waka-->
 
 <!---
