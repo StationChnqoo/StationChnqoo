@@ -10,7 +10,7 @@
 - 2025 至今，南京 😄
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%2C021%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%2C030%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -18,7 +18,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 528 Contributions in the Year 2026
+> 🏆 529 Contributions in the Year 2026
  > 
 > 📦 238.4 kB Used in GitHub's Storage 
  > 
@@ -41,11 +41,11 @@
 
 ```text
 Monday       96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
-Tuesday      95 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.0% 
+Tuesday      94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.86% 
 Wednesday    115 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.73% 
 Thursday     98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.41% 
 Friday       85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
-Saturday     116 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.87% 
+Saturday     117 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.01% 
 Sunday       126 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.24%
 
 ```
@@ -57,18 +57,18 @@ Sunday       126 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               66 hrs 46 mins      ████████████████████░░░░░   82.61% 
-Java                     3 hrs 30 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.33% 
-Vue                      2 hrs 37 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   3.25% 
-Objective-C              2 hrs 7 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.62% 
-Kotlin                   1 hr 41 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.09%
+TypeScript               54 hrs              ████████████████████░░░░░   82.22% 
+Java                     3 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.33% 
+Vue                      2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   3.9% 
+Objective-C              2 hrs 14 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43% 
+Groovy                   1 hr 1 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56%
 
 🔥 Editors: 
-VS Code                  78 hrs 38 mins      ████████████████████████░   97.3% 
-IntelliJ IDEA            2 hrs 10 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   2.7%
+VS Code                  63 hrs 29 mins      ████████████████████████░   96.68% 
+IntelliJ IDEA            2 hrs 10 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   3.32%
 
 💻 Operating System: 
-Mac                      80 hrs 49 mins      █████████████████████████   100.0%
+Mac                      65 hrs 40 mins      █████████████████████████   100.0%
 
 ```
 
@@ -85,7 +85,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 19/06/2026
+ Last Updated on 20/06/2026
 <!--END_SECTION:waka-->
 
 <!---
