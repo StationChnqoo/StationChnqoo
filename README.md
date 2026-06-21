@@ -18,7 +18,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 529 Contributions in the Year 2026
+> 🏆 530 Contributions in the Year 2026
  > 
 > 📦 238.4 kB Used in GitHub's Storage 
  > 
@@ -43,10 +43,10 @@
 Monday       96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.13% 
 Tuesday      94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.86% 
 Wednesday    115 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.73% 
-Thursday     98 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.41% 
+Thursday     97 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.27% 
 Friday       85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
 Saturday     117 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.01% 
-Sunday       126 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.24%
+Sunday       127 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.37%
 
 ```
 
@@ -57,18 +57,18 @@ Sunday       126 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               54 hrs              ████████████████████░░░░░   82.22% 
-Java                     3 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.33% 
-Vue                      2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   3.9% 
-Objective-C              2 hrs 14 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   3.43% 
-Groovy                   1 hr 1 min          ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56%
+TypeScript               43 hrs 15 mins      █████████████████████░░░░   85.14% 
+Vue                      2 hrs 33 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.03% 
+Objective-C              2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.43% 
+Markdown                 48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.59% 
+Groovy                   41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.36%
 
 🔥 Editors: 
-VS Code                  63 hrs 29 mins      ████████████████████████░   96.68% 
-IntelliJ IDEA            2 hrs 10 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   3.32%
+VS Code                  50 hrs 33 mins      █████████████████████████   99.53% 
+IntelliJ IDEA            14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.47%
 
 💻 Operating System: 
-Mac                      65 hrs 40 mins      █████████████████████████   100.0%
+Mac                      50 hrs 48 mins      █████████████████████████   100.0%
 
 ```
 
@@ -85,7 +85,7 @@ Vue                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/06/2026
+ Last Updated on 21/06/2026
 <!--END_SECTION:waka-->
 
 <!---
