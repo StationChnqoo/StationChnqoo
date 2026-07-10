@@ -10,7 +10,7 @@
 - 2025 至今，南京 😄
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%2C187%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%2C214%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -18,7 +18,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 612 Contributions in the Year 2026
+> 🏆 613 Contributions in the Year 2026
  > 
 > 📦 238.7 kB Used in GitHub's Storage 
  > 
@@ -41,9 +41,9 @@
 
 ```text
 Monday       102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.75% 
-Tuesday      107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.42% 
+Tuesday      106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
 Wednesday    126 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.98% 
-Thursday     103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.88% 
+Thursday     104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.02% 
 Friday       83 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.19% 
 Saturday     104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.02% 
 Sunday       117 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.77%
@@ -57,18 +57,18 @@ Sunday       117 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               26 hrs 43 mins      █████████████░░░░░░░░░░░░   51.7% 
-Vue                      5 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.88% 
-Markdown                 4 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.53% 
-XML                      4 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.97% 
-Kotlin                   2 hrs 45 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.33%
+TypeScript               28 hrs 21 mins      ███████████░░░░░░░░░░░░░░   46.48% 
+Vue                      16 hrs 44 mins      ██████░░░░░░░░░░░░░░░░░░░   27.46% 
+Markdown                 7 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.76% 
+JSON                     2 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   3.93% 
+XML                      1 hr 24 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31%
 
 🔥 Editors: 
-VS Code                  45 hrs 26 mins      ██████████████████████░░░   87.91% 
-Trae                     6 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.09%
+VS Code                  57 hrs 1 min        ███████████████████████░░   93.48% 
+Trae                     3 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.52%
 
 💻 Operating System: 
-Mac                      51 hrs 41 mins      █████████████████████████   100.0%
+Mac                      61 hrs              █████████████████████████   100.0%
 
 ```
 
@@ -85,7 +85,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/07/2026
+ Last Updated on 10/07/2026
 <!--END_SECTION:waka-->
 
 <!---
