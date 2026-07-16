@@ -10,15 +10,15 @@
 - 2025 至今，南京 😄
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%2C239%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%2C256%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-266%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-265%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 617 Contributions in the Year 2026
+> 🏆 619 Contributions in the Year 2026
  > 
 > 📦 238.7 kB Used in GitHub's Storage 
  > 
@@ -31,19 +31,19 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    180 commits    ██████░░░░░░░░░░░░░░░░░░░   24.26% 
+🌞 Morning    181 commits    ██████░░░░░░░░░░░░░░░░░░░   24.39% 
 🌆 Daytime    189 commits    ██████░░░░░░░░░░░░░░░░░░░   25.47% 
-🌃 Evening    230 commits    ███████░░░░░░░░░░░░░░░░░░   31.0% 
+🌃 Evening    229 commits    ███████░░░░░░░░░░░░░░░░░░   30.86% 
 🌙 Night      143 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.27%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.88% 
+Monday       101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.61% 
 Tuesday      107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.42% 
 Wednesday    125 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.85% 
-Thursday     104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.02% 
+Thursday     106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
 Friday       82 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.05% 
 Saturday     104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.02% 
 Sunday       117 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.77%
@@ -57,18 +57,18 @@ Sunday       117 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               34 hrs 49 mins      █████████████░░░░░░░░░░░░   51.61% 
-Vue                      21 hrs 37 mins      ████████░░░░░░░░░░░░░░░░░   32.05% 
-Markdown                 7 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.07% 
-JSON                     1 hr 13 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.82% 
-Bash                     47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16%
+TypeScript               29 hrs 40 mins      █████████████░░░░░░░░░░░░   54.15% 
+Vue                      22 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   40.5% 
+JSON                     1 hr 12 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.19% 
+Markdown                 40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23% 
+Objective-C              28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.87%
 
 🔥 Editors: 
-VS Code                  58 hrs 46 mins      █████████████████████░░░░   87.08% 
-Trae                     8 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.92%
+VS Code                  47 hrs 54 mins      █████████████████████░░░░   87.45% 
+Trae                     6 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.55%
 
 💻 Operating System: 
-Mac                      67 hrs 29 mins      █████████████████████████   100.0%
+Mac                      54 hrs 47 mins      █████████████████████████   100.0%
 
 ```
 
@@ -85,7 +85,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 15/07/2026
+ Last Updated on 16/07/2026
 <!--END_SECTION:waka-->
 
 <!---
