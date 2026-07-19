@@ -12,13 +12,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-12%2C264%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-265%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 620 Contributions in the Year 2026
+> 🏆 621 Contributions in the Year 2026
  > 
 > 📦 238.7 kB Used in GitHub's Storage 
  > 
@@ -42,11 +42,11 @@
 ```text
 Monday       101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.61% 
 Tuesday      106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Wednesday    125 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.85% 
+Wednesday    124 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.71% 
 Thursday     106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
 Friday       83 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.19% 
 Saturday     104 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.02% 
-Sunday       117 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.77%
+Sunday       118 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.9%
 
 ```
 
@@ -57,17 +57,17 @@ Sunday       117 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               32 hrs 30 mins      ███████████████████░░░░░░   79.31% 
-Vue                      6 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.52% 
-JSON                     1 hr 3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.57% 
-Objective-C              28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.17% 
-Java                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.42%
+TypeScript               24 hrs 23 mins      ██████████████████░░░░░░░   74.2% 
+Vue                      6 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.6% 
+JSON                     1 hr 3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   3.2% 
+Objective-C              28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.46% 
+Java                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.52%
 
 🔥 Editors: 
-VS Code                  40 hrs 59 mins      █████████████████████████   100.0%
+VS Code                  32 hrs 52 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      40 hrs 59 mins      █████████████████████████   100.0%
+Mac                      32 hrs 52 mins      █████████████████████████   100.0%
 
 ```
 
@@ -84,7 +84,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/07/2026
+ Last Updated on 19/07/2026
 <!--END_SECTION:waka-->
 
 <!---
