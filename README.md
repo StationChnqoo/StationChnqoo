@@ -10,17 +10,17 @@
 - 2025 至今，南京 😄
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%2C399%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%2C423%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-277%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-278%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 673 Contributions in the Year 2026
+> 🏆 681 Contributions in the Year 2026
  > 
-> 📦 239.8 kB Used in GitHub's Storage 
+> 📦 240.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -31,22 +31,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    189 commits    ██████░░░░░░░░░░░░░░░░░░░   25.37% 
-🌆 Daytime    187 commits    ██████░░░░░░░░░░░░░░░░░░░   25.1% 
-🌃 Evening    228 commits    ███████░░░░░░░░░░░░░░░░░░   30.6% 
-🌙 Night      141 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.93%
+🌞 Morning    193 commits    ██████░░░░░░░░░░░░░░░░░░░   25.84% 
+🌆 Daytime    189 commits    ██████░░░░░░░░░░░░░░░░░░░   25.3% 
+🌃 Evening    224 commits    ███████░░░░░░░░░░░░░░░░░░   29.99% 
+🌙 Night      141 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.88%
 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday       103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.83% 
-Tuesday      115 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.44% 
-Wednesday    124 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.64% 
-Thursday     106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.23% 
-Friday       83 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.14% 
-Saturday     100 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.42% 
-Sunday       114 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.3%
+Monday       103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.79% 
+Tuesday      113 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.13% 
+Wednesday    120 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.06% 
+Thursday     106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.19% 
+Friday       83 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Saturday     102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.65% 
+Sunday       120 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.06%
 
 ```
 
@@ -57,18 +57,18 @@ Sunday       114 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               52 hrs 33 mins      ████████████████████████░   97.13% 
-Groovy                   37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.16% 
-Other                    32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01% 
-Vue                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65% 
-XML                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04%
+TypeScript               56 hrs 50 mins      ███████████████████████░░   92.19% 
+JSON                     2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   3.72% 
+Groovy                   56 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.53% 
+Other                    37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.01% 
+XML                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.88%
 
 🔥 Editors: 
-VS Code                  54 hrs 1 min        █████████████████████████   99.82% 
-Trae                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
+VS Code                  55 hrs 41 mins      ██████████████████████░░░   90.32% 
+Trae                     5 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.68%
 
 💻 Operating System: 
-Mac                      54 hrs 6 mins       █████████████████████████   100.0%
+Mac                      61 hrs 39 mins      █████████████████████████   100.0%
 
 ```
 
@@ -85,7 +85,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/08/2026
+ Last Updated on 09/08/2026
 <!--END_SECTION:waka-->
 
 <!---
