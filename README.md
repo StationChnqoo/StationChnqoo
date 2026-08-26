@@ -18,7 +18,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 665 Contributions in the Year 2026
+> 🏆 666 Contributions in the Year 2026
  > 
 > 📦 198.5 kB Used in GitHub's Storage 
  > 
@@ -42,11 +42,11 @@
 ```text
 Monday       97 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
 Tuesday      94 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
-Wednesday    80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.36% 
+Wednesday    81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.52% 
 Thursday     81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.52% 
 Friday       55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.18% 
 Saturday     85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.19% 
-Sunday       107 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.86%
+Sunday       106 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.7%
 
 ```
 
@@ -57,19 +57,19 @@ Sunday       107 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               39 hrs 52 mins      █████████████████░░░░░░░░   70.36% 
-Vue                      9 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.01% 
-Kotlin                   3 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.88% 
-XML                      1 hr 58 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   3.48% 
-JSON                     54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.61%
+TypeScript               36 hrs 16 mins      ████████████████████░░░░░   83.42% 
+Vue                      4 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.71% 
+XML                      1 hr 17 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.97% 
+JSON                     54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.09% 
+Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.53%
 
 🔥 Editors: 
-VS Code                  56 hrs 28 mins      █████████████████████████   99.65% 
-Android Studio           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.21% 
-IntelliJ IDEA            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+VS Code                  43 hrs 17 mins      █████████████████████████   99.55% 
+Android Studio           7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28% 
+IntelliJ IDEA            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.17%
 
 💻 Operating System: 
-Mac                      56 hrs 40 mins      █████████████████████████   100.0%
+Mac                      43 hrs 29 mins      █████████████████████████   100.0%
 
 ```
 
@@ -86,7 +86,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/08/2026
+ Last Updated on 26/08/2026
 <!--END_SECTION:waka-->
 
 <!---
