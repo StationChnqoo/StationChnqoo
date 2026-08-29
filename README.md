@@ -10,7 +10,7 @@
 - 2025 至今，南京 😄
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%2C580%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%2C590%20hrs%2048%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
 
@@ -18,7 +18,7 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 668 Contributions in the Year 2026
+> 🏆 669 Contributions in the Year 2026
  > 
 > 📦 198.6 kB Used in GitHub's Storage 
  > 
@@ -31,10 +31,10 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    136 commits    █████░░░░░░░░░░░░░░░░░░░░   22.7% 
+🌞 Morning    137 commits    █████░░░░░░░░░░░░░░░░░░░░   22.87% 
 🌆 Daytime    140 commits    █████░░░░░░░░░░░░░░░░░░░░   23.37% 
 🌃 Evening    184 commits    ███████░░░░░░░░░░░░░░░░░░   30.72% 
-🌙 Night      139 commits    █████░░░░░░░░░░░░░░░░░░░░   23.21%
+🌙 Night      138 commits    █████░░░░░░░░░░░░░░░░░░░░   23.04%
 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -42,10 +42,10 @@
 ```text
 Monday       96 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.03% 
 Tuesday      94 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
-Wednesday    81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.52% 
+Wednesday    80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.36% 
 Thursday     82 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.69% 
 Friday       55 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.18% 
-Saturday     85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.19% 
+Saturday     86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.36% 
 Sunday       106 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.7%
 
 ```
@@ -57,17 +57,17 @@ Sunday       106 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               33 hrs 49 mins      ████████████████████░░░░░   79.99% 
-Vue                      4 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.16% 
-Groovy                   1 hr 4 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.54% 
-Kotlin                   54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.14% 
-XML                      48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.91%
+TypeScript               29 hrs 48 mins      ██████████████████░░░░░░░   74.53% 
+Vue                      3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   9.32% 
+JavaScript               1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.85% 
+XML                      1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.08% 
+Groovy                   1 hr 4 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.69%
 
 🔥 Editors: 
-VS Code                  42 hrs 17 mins      █████████████████████████   100.0%
+VS Code                  39 hrs 59 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      42 hrs 17 mins      █████████████████████████   100.0%
+Mac                      39 hrs 59 mins      █████████████████████████   100.0%
 
 ```
 
