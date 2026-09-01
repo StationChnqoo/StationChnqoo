@@ -10,15 +10,15 @@
 - 2025 至今，南京 😄
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%2C591%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%2C597%20hrs%2019%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-115%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 672 Contributions in the Year 2026
+> 🏆 673 Contributions in the Year 2026
  > 
 > 📦 198.6 kB Used in GitHub's Storage 
  > 
@@ -41,11 +41,11 @@
 
 ```text
 Monday       97 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.19% 
-Tuesday      93 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.53% 
+Tuesday      94 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.69% 
 Wednesday    80 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.36% 
 Thursday     81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.52% 
 Friday       54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.02% 
-Saturday     86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.36% 
+Saturday     85 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.19% 
 Sunday       108 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.03%
 
 ```
@@ -57,17 +57,17 @@ Sunday       108 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               28 hrs 52 mins      ███████████████████░░░░░░   78.7% 
-JavaScript               1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.29% 
-XML                      1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.46% 
-Vue                      1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.68% 
-Groovy                   1 hr 4 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.93%
+TypeScript               31 hrs 45 mins      ██████████████████░░░░░░░   74.71% 
+Vue                      3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   8.84% 
+JavaScript               1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.56% 
+XML                      1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.3% 
+Groovy                   1 hr 4 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   2.53%
 
 🔥 Editors: 
-VS Code                  36 hrs 41 mins      █████████████████████████   100.0%
+VS Code                  42 hrs 29 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      36 hrs 41 mins      █████████████████████████   100.0%
+Mac                      42 hrs 29 mins      █████████████████████████   100.0%
 
 ```
 
@@ -84,7 +84,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/08/2026
+ Last Updated on 01/09/2026
 <!--END_SECTION:waka-->
 
 <!---
