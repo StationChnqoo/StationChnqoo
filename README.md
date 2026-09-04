@@ -10,17 +10,17 @@
 - 2025 至今，南京 😄
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%2C621%20hrs%206%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%2C633%20hrs%2026%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-13-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-130%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-129%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 687 Contributions in the Year 2026
+> 🏆 689 Contributions in the Year 2026
  > 
-> 📦 199.8 kB Used in GitHub's Storage 
+> 📦 199.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -32,8 +32,8 @@
 
 ```text
 🌞 Morning    140 commits    █████░░░░░░░░░░░░░░░░░░░░   23.1% 
-🌆 Daytime    142 commits    █████░░░░░░░░░░░░░░░░░░░░   23.43% 
-🌃 Evening    186 commits    ███████░░░░░░░░░░░░░░░░░░   30.69% 
+🌆 Daytime    141 commits    █████░░░░░░░░░░░░░░░░░░░░   23.27% 
+🌃 Evening    187 commits    ███████░░░░░░░░░░░░░░░░░░   30.86% 
 🌙 Night      138 commits    █████░░░░░░░░░░░░░░░░░░░░   22.77%
 
 ```
@@ -42,9 +42,9 @@
 ```text
 Monday       96 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.84% 
 Tuesday      94 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.51% 
-Wednesday    79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
-Thursday     92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.18% 
-Friday       54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.91% 
+Wednesday    78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.87% 
+Thursday     91 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.02% 
+Friday       56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.24% 
 Saturday     84 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.86% 
 Sunday       107 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.66%
 
@@ -57,17 +57,17 @@ Sunday       107 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               35 hrs 11 mins      ████████████████░░░░░░░░░   66.22% 
-Vue                      8 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.92% 
-XML                      3 hrs 34 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.72% 
-JavaScript               1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.64% 
-Markdown                 1 hr 20 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.52%
+TypeScript               30 hrs 48 mins      ██████████████░░░░░░░░░░░   58.25% 
+Vue                      7 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.03% 
+Other                    6 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.46% 
+XML                      2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.31% 
+JavaScript               1 hr 56 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   3.66%
 
 🔥 Editors: 
-VS Code                  53 hrs 8 mins       █████████████████████████   100.0%
+VS Code                  52 hrs 53 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      53 hrs 8 mins       █████████████████████████   100.0%
+Mac                      52 hrs 53 mins      █████████████████████████   100.0%
 
 ```
 
@@ -84,7 +84,7 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026
+ Last Updated on 04/09/2026
 <!--END_SECTION:waka-->
 
 <!---
