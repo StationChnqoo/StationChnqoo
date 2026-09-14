@@ -18,35 +18,35 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 714 Contributions in the Year 2026
+> 🏆 717 Contributions in the Year 2026
  > 
-> 📦 289.8 kB Used in GitHub's Storage 
+> 📦 289.9 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 12 Public Repositories 
+> 📜 13 Public Repositories 
  > 
 > 🔑 16 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    140 commits    █████░░░░░░░░░░░░░░░░░░░░   22.65% 
-🌆 Daytime    150 commits    ██████░░░░░░░░░░░░░░░░░░░   24.27% 
-🌃 Evening    188 commits    ███████░░░░░░░░░░░░░░░░░░   30.42% 
-🌙 Night      140 commits    █████░░░░░░░░░░░░░░░░░░░░   22.65%
+🌞 Morning    140 commits    █████░░░░░░░░░░░░░░░░░░░░   22.62% 
+🌆 Daytime    151 commits    ██████░░░░░░░░░░░░░░░░░░░   24.39% 
+🌃 Evening    188 commits    ███████░░░░░░░░░░░░░░░░░░   30.37% 
+🌙 Night      140 commits    █████░░░░░░░░░░░░░░░░░░░░   22.62%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       98 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.86% 
-Tuesday      96 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.53% 
-Wednesday    77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.46% 
-Thursday     89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.4% 
-Friday       56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.06% 
-Saturday     90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.56% 
-Sunday       112 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.12%
+Monday       99 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.99% 
+Tuesday      96 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.51% 
+Wednesday    77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.44% 
+Thursday     89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.38% 
+Friday       56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.05% 
+Saturday     90 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.54% 
+Sunday       112 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.09%
 
 ```
 
@@ -57,18 +57,18 @@ Sunday       112 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               52 hrs 29 mins      █████████████████████░░░░   83.62% 
-Vue                      3 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
-Markdown                 2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   3.9% 
-JSON                     1 hr 26 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.31% 
-Rust                     1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.84%
+TypeScript               49 hrs 37 mins      █████████████████████░░░░   84.93% 
+Markdown                 2 hrs 26 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.19% 
+Vue                      2 hrs 22 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.07% 
+Rust                     1 hr 9 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.97% 
+JSON                     1 hr 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   1.96%
 
 🔥 Editors: 
-VS Code                  60 hrs 7 mins       ████████████████████████░   95.8% 
-Trae                     2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.2%
+VS Code                  55 hrs 48 mins      ███████████████████████░░   95.49% 
+Trae                     2 hrs 38 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.51%
 
 💻 Operating System: 
-Mac                      62 hrs 45 mins      █████████████████████████   100.0%
+Mac                      58 hrs 26 mins      █████████████████████████   100.0%
 
 ```
 
@@ -85,7 +85,7 @@ Vue                      2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/09/2026
+ Last Updated on 14/09/2026
 <!--END_SECTION:waka-->
 
 <!---
