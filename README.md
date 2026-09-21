@@ -10,43 +10,43 @@
 - 2025 至今，南京 😄
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%2C782%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%2C796%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-232%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-235%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 739 Contributions in the Year 2026
+> 🏆 746 Contributions in the Year 2026
  > 
-> 📦 291.8 kB Used in GitHub's Storage 
+> 📦 292.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 12 Public Repositories 
  > 
-> 🔑 18 Private Repositories  
+> 🔑 19 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    143 commits    █████░░░░░░░░░░░░░░░░░░░░   22.63% 
-🌆 Daytime    156 commits    ██████░░░░░░░░░░░░░░░░░░░   24.68% 
-🌃 Evening    191 commits    ███████░░░░░░░░░░░░░░░░░░   30.22% 
-🌙 Night      142 commits    █████░░░░░░░░░░░░░░░░░░░░   22.47%
+🌞 Morning    144 commits    █████░░░░░░░░░░░░░░░░░░░░   22.61% 
+🌆 Daytime    157 commits    ██████░░░░░░░░░░░░░░░░░░░   24.65% 
+🌃 Evening    194 commits    ███████░░░░░░░░░░░░░░░░░░   30.46% 
+🌙 Night      142 commits    █████░░░░░░░░░░░░░░░░░░░░   22.29%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.19% 
-Tuesday      99 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.66% 
-Wednesday    77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.18% 
-Thursday     92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.56% 
-Friday       59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.34% 
-Saturday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.72% 
-Sunday       116 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.35%
+Monday       102 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.01% 
+Tuesday      99 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.54% 
+Wednesday    76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.93% 
+Thursday     92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.44% 
+Friday       59 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.26% 
+Saturday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.6% 
+Sunday       116 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.21%
 
 ```
 
@@ -57,36 +57,36 @@ Sunday       116 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               40 hrs 2 mins       ███████████████░░░░░░░░░░   60.25% 
-JSON                     9 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.35% 
-Vue                      4 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   7.04% 
-JavaScript               3 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   4.54% 
-Other                    2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   3.8%
+TypeScript               52 hrs 59 mins      ████████████████░░░░░░░░░   65.6% 
+JSON                     9 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.8% 
+Vue                      4 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.79% 
+Other                    3 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.81% 
+JavaScript               3 hrs               █░░░░░░░░░░░░░░░░░░░░░░░░   3.73%
 
 🔥 Editors: 
-VS Code                  65 hrs 1 min        ████████████████████████░   97.84% 
-IntelliJ IDEA            1 hr 15 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89% 
-Trae                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.27%
+VS Code                  79 hrs 21 mins      ████████████████████████░   98.22% 
+IntelliJ IDEA            1 hr 15 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.55% 
+Trae                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
 
 💻 Operating System: 
-Mac                      66 hrs 27 mins      █████████████████████████   100.0%
+Mac                      80 hrs 47 mins      █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               9 repos             ████████░░░░░░░░░░░░░░░░░   34.62% 
-JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   19.23% 
-Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
-Java                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54% 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54%
+TypeScript               9 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+JavaScript               5 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.52% 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
+Vue                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.81% 
+HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 
 ```
 
 
 
- Last Updated on 20/09/2026
+ Last Updated on 21/09/2026
 <!--END_SECTION:waka-->
 
 <!---
