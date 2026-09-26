@@ -18,9 +18,9 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 783 Contributions in the Year 2026
+> 🏆 784 Contributions in the Year 2026
  > 
-> 📦 293.4 kB Used in GitHub's Storage 
+> 📦 293.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -41,11 +41,11 @@
 
 ```text
 Monday       101 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.05% 
-Tuesday      106 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.8% 
+Tuesday      105 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.65% 
 Wednesday    103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.35% 
 Thursday     94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.01% 
 Friday       60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.94% 
-Saturday     92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
+Saturday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.86% 
 Sunday       115 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.14%
 
 ```
@@ -57,19 +57,18 @@ Sunday       115 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               53 hrs 14 mins      █████████████████░░░░░░░░   70.34% 
-JSON                     5 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.79% 
-Other                    5 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.52% 
-Vue                      3 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.23% 
-XML                      2 hrs 35 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   3.42%
+TypeScript               46 hrs 36 mins      ███████████████████░░░░░░   77.47% 
+Other                    4 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   7.92% 
+Vue                      3 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   5.55% 
+XML                      2 hrs 35 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.3% 
+Markdown                 1 hr 14 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.08%
 
 🔥 Editors: 
-VS Code                  73 hrs 58 mins      ████████████████████████░   97.72% 
-IntelliJ IDEA            1 hr 15 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66% 
-Trae                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62%
+VS Code                  59 hrs 41 mins      ████████████████████████░   99.22% 
+Trae                     28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
 
 💻 Operating System: 
-Mac                      75 hrs 41 mins      █████████████████████████   100.0%
+Mac                      60 hrs 10 mins      █████████████████████████   100.0%
 
 ```
 
@@ -86,7 +85,7 @@ HTML                     3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 25/09/2026
+ Last Updated on 26/09/2026
 <!--END_SECTION:waka-->
 
 <!---
