@@ -15,11 +15,11 @@ const markdown = {
   },
 };
 
-axios
-  .post(webhook, markdown)
-  .then((result) => {
-    console.log("Markdown消息已推送 ...");
-  })
-  .catch((error) => {
-    console.error("推送失败 ...", error);
-  });
+// axios
+//   .post(webhook, markdown)
+//   .then((result) => {
+//     console.log("Markdown消息已推送 ...");
+//   })
+//   .catch((error) => {
+//     console.error("推送失败 ...", error);
+//   });
