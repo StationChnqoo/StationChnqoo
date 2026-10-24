@@ -9,17 +9,17 @@
 - 2025 至今，南京 😄
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%2C124%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-13%2C134%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-249%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-176%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 976 Contributions in the Year 2026
+> 🏆 983 Contributions in the Year 2026
  > 
-> 📦 231.0 kB Used in GitHub's Storage 
+> 📦 232.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -30,10 +30,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    167 commits    ██████░░░░░░░░░░░░░░░░░░░   23.96% 
-🌆 Daytime    187 commits    ██████░░░░░░░░░░░░░░░░░░░   26.83% 
-🌃 Evening    199 commits    ███████░░░░░░░░░░░░░░░░░░   28.55% 
-🌙 Night      144 commits    █████░░░░░░░░░░░░░░░░░░░░   20.66%
+🌞 Morning    163 commits    █████░░░░░░░░░░░░░░░░░░░░   23.39% 
+🌆 Daytime    192 commits    ███████░░░░░░░░░░░░░░░░░░   27.55% 
+🌃 Evening    200 commits    ███████░░░░░░░░░░░░░░░░░░   28.69% 
+🌙 Night      142 commits    █████░░░░░░░░░░░░░░░░░░░░   20.37%
 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -43,8 +43,8 @@ Monday       126 commits    ████░░░░░░░░░░░░░�
 Tuesday      110 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.78% 
 Wednesday    86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.34% 
 Thursday     78 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.19% 
-Friday       68 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.76% 
-Saturday     107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.35% 
+Friday       67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.61% 
+Saturday     108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.49% 
 Sunday       122 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.5%
 
 ```
@@ -56,19 +56,19 @@ Sunday       122 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               34 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   42.36% 
-JSON                     27 hrs 9 mins       ████████░░░░░░░░░░░░░░░░░   33.09% 
-Vue                      8 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.51% 
-Markdown                 3 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.48% 
-Java                     3 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   3.97%
+TypeScript               32 hrs 11 mins      ██████████░░░░░░░░░░░░░░░   41.92% 
+JSON                     23 hrs 3 mins       ███████░░░░░░░░░░░░░░░░░░   30.04% 
+Vue                      8 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.24% 
+Markdown                 5 hrs 16 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   6.88% 
+Java                     3 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   4.95%
 
 🔥 Editors: 
-VS Code                  79 hrs 7 mins       ████████████████████████░   96.39% 
-Copilot CLI              2 hrs 28 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   3.01% 
-IntelliJ IDEA            29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.6%
+VS Code                  73 hrs 49 mins      ████████████████████████░   96.14% 
+Copilot CLI              2 hrs 28 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   3.22% 
+IntelliJ IDEA            29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64%
 
 💻 Operating System: 
-Mac                      82 hrs 4 mins       █████████████████████████   100.0%
+Mac                      76 hrs 46 mins      █████████████████████████   100.0%
 
 ```
 
@@ -77,7 +77,7 @@ Mac                      82 hrs 4 mins       ███████████�
 ```text
 TypeScript               7 repos             ████████░░░░░░░░░░░░░░░░░   35.0% 
 Java                     4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-Vue                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.0% 
+Vue                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
 JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
 HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
 
@@ -85,7 +85,7 @@ HTML                     2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 23/10/2026
+ Last Updated on 24/10/2026
 <!--END_SECTION:waka-->
 
 <!---
